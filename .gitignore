@@ -1,0 +1,8 @@
+output/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+*.pem
+*.key
+.env
