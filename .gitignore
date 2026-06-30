@@ -1,4 +1,4 @@
-output/
+output/*
 *.tfstate
 *.tfstate.*
 *.tfvars
@@ -6,3 +6,4 @@ output/
 *.pem
 *.key
 .env
+.DS_Store
